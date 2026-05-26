@@ -56,9 +56,3 @@ The platform reached a stable release and was later archived after achieving its
 - Alert integrations
 - Edge monitoring
 - Distributed tracing
-
----
-
-## Screenshot
-
-Coming soon.
